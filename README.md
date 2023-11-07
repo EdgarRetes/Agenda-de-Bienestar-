@@ -1,2 +1,2 @@
 # Agenda-de-Bienestar-
-Agenda que registra los eventos enfocados a distintas áreas de bienestar del usuario para medir cada enfoque.
+Una agenda en modo de calendario donde el usuario puede registrar actividades o eventos identificándolos por su tipo: bienestar social, personal, familiar, vocacional y físico. Al registrar cada actividad en el calendario se mostrara y una vez completandola se va a registrar, evaluando el enfoque que se tiene en cada área y así saber que áreas debes de trabajar más para tener un bienestar equlibrado.
