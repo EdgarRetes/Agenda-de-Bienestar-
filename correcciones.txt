@@ -1,1 +1,18 @@
-dewf3e
+Entrega 1:
+
+*  El contexto que se incluye en el repositorio no es lo suficientemente detallado. Te recomiendo trabajar en la definición del problema (extenderlo), para facilitar la identificación de clases.
+
+Entrega 2: 
+
+* Hay que revisar la notación utilizada para la relación de herencia.
+* Las relaciones de composición/agregación no tienen definido atributo del tipo de la clase componente
+
+Entrega 3: 
+
+* Las clases tienen la implementación de los métodos en la sección correspondiente a la definición. Hay que separar.
+- Cada clase ahora tiene separada la definicón de los procesos. Para eso definí cada método en la sección pública de la clase, mientars que le asigne un proceso tipo Class::method(){} fuera de la clase a cada uno de los métodos.
+
+* Algunos métodos tienen cout que puede reemplazarse por el return de un string.
+- Cambié cada una de las funciones que tenían cout en las clases para regresar valores string en el main y poder desplegarlos en la panatalla, excepto por las funcioens complejas como display_Calendar y display_Day ya que están muy relacionadas con la modifcación de objetos y tienen un espacio asignado en la terminal por lo que se complica concatenar cada uno de esos elemntos para después regresarlo al main.
+
+* Hay que ajustar el diagrama de clases para que las relaciones de agregación vayan directo a los tipos de evento. ¿Por qué agregas los eventos a dos vectores?
