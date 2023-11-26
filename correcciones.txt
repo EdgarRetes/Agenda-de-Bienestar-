@@ -1,6 +1,7 @@
 Entrega 1:
 
 *  El contexto que se incluye en el repositorio no es lo suficientemente detallado. Te recomiendo trabajar en la definición del problema (extenderlo), para facilitar la identificación de clases.
+- El README ahora contiene suficiente contexto para entender el porqué del programa así como el funcionamiento de este. Las clases pueden y relaciones entre ellas pueden distinguirse con el contexto y la ayuda del diagrama.
 
 Entrega 2: 
 
