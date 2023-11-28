@@ -6,6 +6,6 @@ En primer lugar, la dimensión física involucra toda actividad que beneficie a 
 
 A raíz de esta situación, este proyecto busca llevar un registro del usuario para cada una de estas dimensiones y que pueda visualizar el enfoque que está llevando en su vida y así pueda decidir qué cambios debería de hacer. Para esto, el proyecto se trata de una agenda la cuál añades eventos o actividades en los días del mes, definiendo que tipo de dimensión se está trabajando durante esta actividad. Al llevar un registro de las dimensiones que se trabajan en la vida diaria, el usuario podrá ver qué dimensiones está descuidando y podría tener un enfoque más amplio debido a la conciencia de lo que está trabajando como persona.
 
-![Avance2 drawio](https://github.com/EdgarRetes/Agenda-de-Bienestar-/assets/113946434/5ba10ec7-9fe3-4110-86de-aa759f40145f)
+![UMLProyecto drawio](https://github.com/EdgarRetes/Agenda-de-Bienestar-/assets/113946434/60314017-030e-40ad-b2ad-49777f7b6ab1)
 
 Así es como se verían las clases del prorama, donde la clase principal es el mes en el que se lleva todo el registro de las actividades y este está compuesto por varios días que tienen una fecha específica. Así mismo, los días pueden tener los eventos o actividades que el usuario registre con la duración de este, la hora, el nombre y el tipo, donde el tipo esta definido por las clases herencia que representan cada dimensión del bienestar.
